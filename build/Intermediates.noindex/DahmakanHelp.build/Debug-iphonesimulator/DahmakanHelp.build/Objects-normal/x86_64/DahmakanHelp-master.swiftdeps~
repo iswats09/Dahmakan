@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "31e42d12b7bef7e2e381229a59a4e89d"
+build_time: [1523027614, 143773000]
+inputs:
+  "/Users/iswathi/Desktop/DahmakanHelp/DahmakanHelp/CustomTableViewCell.swift": [1523027313, 0]
+  "/Users/iswathi/Desktop/DahmakanHelp/DahmakanHelp/ViewController.swift": [1523027614, 0]
+  "/Users/iswathi/Desktop/DahmakanHelp/DahmakanHelp/AppDelegate.swift": [1523016747, 0]
+  "/Users/iswathi/Downloads/OrderDetails.swift": [1523022928, 0]
